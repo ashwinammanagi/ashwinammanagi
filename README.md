@@ -7,11 +7,7 @@
 
 <br>
 
-<p style="color:#0d1117;">.</p>
-
 ---
-
-<p style="color:#0d1117;">.</p>
 
 <br>
 
