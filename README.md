@@ -2,7 +2,7 @@
 
 <h3 align="left">A Cyber Security Analyst with focus on Cloud</h3>
 
-- 📝 I write articles on&nbsp; [![iash.dev](iashdev.svg)](https://iash.dev)
+Building [Photo Sharing Platform With Face Recognition](https://snapseek.app)
 
 
 <br>
